@@ -1,0 +1,20 @@
+{
+  "name": "twitter-js",
+  "version": "1.0.0",
+  "description": "a cool tweet app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "twitter-js"
+  },
+  "author": "Daniel and Tae Hoon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "volleyball": "^1.4.1"
+  }
+}
